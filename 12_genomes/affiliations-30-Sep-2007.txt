@@ -1,0 +1,102 @@
+1	Computer Science and Artificial Intelligence Laboratory, Cambridge MA 02139, USA
+2	Broad Institute of MIT and Harvard, Cambridge MA 02142, USA
+3	Center for Bioinformatics and Computational Biology, University of Maryland, College Park, MD 20742, USA
+4	Genome Sequencing Center, Washington University School of Medicine, St. Louis, MO 63108, USA
+5	J. Craig Venter Institute, Rockville, MD, 20850, USA
+6	Agencourt Bioscience Corporation, Beverly MA, 01915, USA
+7	European Bioinformatics Institute, Hinxton, CB10 1SD, UK
+8	Department of Biology, University of Winnipeg, Winnipeg, Manitoba, R3B 2E9, Canada
+9	Cajal Institute, CSIC, Madrid 28002, Spain
+10	Institute for Physical Science and Technology, University of Maryland, College Park, MD 20742, USA
+11	Department of Molecular Biology and Genetics, Cornell University, Ithaca, NY 14853, USA
+12	Department of Entomology, Cornell University, Ithaca, NY 14853, USA
+13	Life Sciences Division, Lawrence Berkeley National Laboratory, Berkeley, CA 94720, USA
+14	Faculty of Life Sciences, University of Manchester, Manchester, M13 9PT, UK
+15	Department of Molecular and Cellular Biology, Harvard University, Cambridge, MA 02138, USA
+16	Laboratory of Cellular and Developmental Biology, National Institutes of Health, Bethesda, MD 20892, USA
+17	Department of Ecology and Evolutionary Biology, University of Arizona, Tucson, AZ 85721, USA
+18	Arizona Genomics Institute, Department of Plant Sciences and BIO5, University of Arizona, Tucson, AZ 85721, USA
+19	Tucson Stock Center, Tucson, AZ 85721, USA
+20	Department of Biology, Indiana University, Bloomington, IN 47405, USA
+21	School of Informatics, Indiana University, Bloomington, IN 47405, USA
+22	Department of Biological Sciences, University of Iowa, Iowa City, IA 52242, USA
+23	Department of Bioengineering, University of California at Berkeley, Berkeley, CA 94720, USA
+24	Departamento de Genética, Universidade Federal do Rio de Janeiro, Rio de Janeiro, 21944-970, Brasil
+25	BioMolecular Engineering Research Center, Boston University, Boston, MA 02215, USA
+26	Department of Zoology, University of Cambridge, Cambridge, CB2 3EJ, UK
+27	Structural Studies Division, MRC Laboratory of Molecular Biology, Cambridge, CB2 2QH, UK
+28	Department of Biology, Syracuse University, Syracuse, NY 13244, USA
+29	Section of Evolution and Ecology and Center for Population Biology, University of California at Davis, Davis, CA 95616, USA
+30	Department of Genetics, University of Melbourne, Melbourne 3010, Australia
+31	MRC Functional Genetics Unit, University of Oxford, Oxford OX1 3QX, UK
+32	Department of Physiology, Anatomy and Genetics, University of Oxford, Oxford OX1 3QX, UK
+33	Department of Biology, San Francisco State University, San Francisco, CA 94132, USA
+34	Department of Ecology and Evolution, University of Chicago, Chicago, IL 60637, USA
+35	Department of Human Genetics, University of Chicago, Chicago, IL 60637, USA
+36	Department of Biology and Carolina Center for Genome Sciences, The University of North Carolina at Chapel Hill, Chapel Hill, NC 27599, USA
+37	Dipartimento di Biochimica e Biologia Molecolare, Università di Bari and Istituto Tecnologie Biomediche del Consiglio Nazionale delle Ricerche, Bari, 70126, Italy
+38	Umeå Centere for Molecular Pathogenesis, Umeå University, Umeå, SE-90187, Sweden
+39	Linnaeus Centre for Bioinformatics, Uppsala Universitet, Uppsala, SE-75124 Sweden
+40	Department of Ecology and Evolutionary Biology, Brown University, Providence, RI 02912, USA
+41	Department of Molecular Biology, Cell Biology and Biochemistry, Brown University, Providence, RI 02912, USA
+42	Departament Genètica i Microbiologia, Universitat Autònoma de Barcelona, Bellaterra, 08193, Spain
+43	Centro de Biología Molecular Severo Ochoa, Universidad Autónoma de Madrid, Madrid 28049, Spain
+44	Center for Biomolecular Science & Engineering, University of California at Santa Cruz, Santa Cruz, CA 95064, USA
+45	Institute of Evolutionary Biology, University of Edinburgh, Edinburgh, EH9 3JT, UK
+46	Department of Organismic and Evolutionary Biology, Harvard University, Cambridge, MA 02138, USA
+47	Janelia Farm Research Campus, Howard Hughes Medical Institue, Ashburn, VA 20147-2408, USA
+48	Faculty of Medecine, Universite de Geneve, Geneva, Switzerland
+49	Departament de Genètica, Universitat de Barcelona, Barcelona, 08071, Spain
+50	Research Group in Biomedical Informatics, Institut Municipal d'Investigacio Medica, Universitat Pompeu Fabra, Barcelona, 08003, Catalonia, Spain.
+51	Bioinformatics and Genomics Laboratory, Institut Jacques Monod, Paris, 75251, France
+52	Department of Biology, Duke University, Durham, NC 27708, USA
+53	Department of Environmental Science, Policy and Management, University of California at Berkeley, Berkeley, CA 94720, USA
+54	Department of Biology, McMaster University, Hamilton, Ontario, L8S 4K1, Canada
+55	Laboratory for Computational Genomics, Washington University, St. Louis, MO 63108, USA
+57	Department of Biology, Pennsylvania State University, University Park, PA 16802, USA
+58	Department of Biology, University of Munich, 82152 Planegg-Martinsried, Germany
+59	Department of Biology, Emory University, Atlanta, GA 30322, USA
+60	School of Life Sciences, Arizona State University, Tempe, AZ 85287, USA
+61	Center for Evolutionary Functional Genomics, Biodesign Institute, Arizona State University, Tempe, AZ 85287, USA
+62	Department of Biology, University of Rochester, Rochester, NY 14627, USA
+64	Department of Mathematics, University of California at Berkeley, Berkeley, CA 94720, USA
+65	Bee Research Lab, USDA-ARS, Beltsville, MD 20705, USA
+66	Department of Ecology and Evolutionary Biology, Yale University, New Haven, CT 06520, USA
+67	Institue of Biology, University of Copenhagen, DK-2100 Copenhagen Ø, Denmark
+68	Department of Biological Sciences, Carnegie Mellon University, Pittsburgh, PA 15213, USA
+69	Computer Science Department, Stanford University, Stanford CA 94305, USA
+70	Department of Biomedical Informatics, Arizona State University, Tempe, AZ 85287, USA
+71	Department of Cell Biology and Molecular Genetics, University of Maryland, College Park, MD 20742, USA
+72	School of Biology, University of St. Andrews, Fife, KY16 9TH, UK
+73	National Center for Biotechnology Information, National Institutes of Health, Bethesda, MD 20894, USA
+74	Beijing Genomics Institute at ShenZhen, ShenZhen, 518083, China
+75	Center of Genomic Regulation, Barcelona, 8003, Catalonia, Spain
+76	Drosophila Heterochromatin Genome Project, Department of Genome and Computational Biology, Lawrence Berkeley National Laboratory, Berkeley, CA 94720, USA
+77	Department of Molecular and Cell Biology, University of California at Berkeley, Berkeley, CA 94720, USA
+78	FlyBase, The Biological Laboratories, Harvard University, Cambridge, MA 02138, USA
+79	Biophysics Graduate Group, University of California at Berkeley, Berkeley, CA 94720, USA
+80	Center for Integrative Genomics, Department of Molecular and Cell Biology, University of California at Berkeley, Berkeley, CA 94720, USA
+81	Genome Center, University of California at Davis, Davis, CA 95616, USA
+82	Animal and Plant Sciences, The University of Sheffield, Sheffield S10 2TN, UK
+83	Institute of Zoology, Regent's Park, London NW1 4RY, UK
+84	Department of Computer Science, University of Leipzig, Leipzig, 04107, Germany
+85	Department of Biological Sciences and Department of Medicine, University of Alberta, Edmonton, Alberta T6G 2E9, Canada
+86	Department of Biochemistry and Molecular Biology, University of Southern Denmark, Odense M, DK-5230, Denmark
+87	Wellcome Trust Sanger Institute, Wellcome Trust Genome Campus, Hinxton, Cambridge, CB10 1SA, UK
+88	Bioinformatics Centre, Department of Molecular Biology, University of Copenhagen, DK-2200 Copenhagen N, Denmark
+89	Dipartimento di Genetica e Microbiologia dell'Università di Bari, Bari, 70126, Italy
+90	Biomedical Informatics, Stanford University, Stanford CA 94305, USA
+91	Department of Genetics, North Carolina State University, Raleigh, NC 27695, USA
+92	Department of Genetics, University of Georgia, Athens, GA 30602, USA
+93	Department of Biological Sciences, Illinois State University, Normal, IL 61790, USA
+94	Department of Developmental Biology and Neurosciences, Tohoku University, Sendai 980-8578, Japan
+95	Department of Biology, City University of New York at Queens, Flushing, NY 11367, USA
+96	Kyorin University, School of Medicine, Mitaka, Tokyo 181-8611, Japan
+97	Shiba Gakuen, Minato-ku, Tokyo 105-0011, Japan
+98	Hokkaido University, EESBIO, Sapporo, Hokkaido 060-0810, Japan
+99	Institute of Evolutionary Biology, Setagaya-ku, Tokyo 158-0098, Japan
+100	Departamento de Genética, Universidade Federal do Rio Grande do Sul, Porto Alegre/RS – Brazil
+101	Centro Acadêmico de Vitória, Universidade Federal de Pernambuco, Vitória de Santo Antão/PE – Brazil
+102	Departamento de Genética, Centro de Ciências Biológicas, Universidade Federal de Pernambuco, Recife/PE – Brazil
+103	Health Center, University of Connecticut, Farmington, CT 06030, USA
+104	Genomics Division, Lawrence Berkeley National Laboratory, Berkeley, CA 94720, USA

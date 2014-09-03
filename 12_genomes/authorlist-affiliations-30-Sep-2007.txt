@@ -1,0 +1,266 @@
+#AUTHORS FOR CORRESPONDENCE
+Andrew G. Clark	11
+Michael B. Eisen	104,80
+Douglas R. Smith	6
+Casey M. Bergman	14
+Venky N. Iyer	77
+Timothy B. Sackton	11
+Amanda M. Larracuente	11
+Daniel A. Pollard	79
+Nadia Singh	11
+William Gelbart	15,78
+Brian Oliver	16
+Therese A. Markow	17
+Thomas C. Kaufman	20
+Manolis Kellis	1,2
+
+#AUTHOR LIST
+Jose P. Abad	43
+Dawn N. Abt	40
+Boris Adryan	27
+Montserrat Aguade	49
+Hiroshi Akashi	57
+Wyatt W. Anderson	92
+Charles F. Aquadro	11
+David H. Ardell	39
+Roman Arguello	34
+Carlo G. Artieri	54
+Daniel A. Barbash	11
+Daniel Barker	72
+Paolo Barsanti	89
+Phil Batterham	30
+Serafim Batzoglou	69
+Dave Begun	29
+Casey M. Bergman	14
+Arjun Bhutkar	15,25
+Enrico Blanco	50
+Stephanie A. Bosak	6
+Robert K. Bradley	23
+Adrianne D. Brand	6
+Michael R. Brent	55
+Angela N. Brooks	77
+Randall H. Brown	55
+Roger K. Butlin	82
+Corrado Caggese	89
+Brian R. Calvi	28
+A. Bernardo de Carvalho	24
+Anat Caspi	23
+Sergio Castrezana	19
+Susan E. Celniker	13
+Jean L. Chang	2
+Charles Chapple	50
+Sourav Chatterji	64,81
+Asif Chinwalla	4
+Alberto Civetta	8
+Andrew G. Clark	11
+Sandra W. Clifton	4
+Josep M. Comeron	22
+James C. Costello	21
+Jerry A. Coyne	34
+Jennifer Daub	87
+Robert G. David	6
+Arthur L. Delcher	3
+Kim Delehaunty	4
+Chuong B. Do	69
+Heather Ebling	6
+Kevin Edwards	93
+Thomas Eickbush	62
+Michael B. Eisen	104,80
+Jay D. Evans	65
+Alan Filipski	61
+Sven Findei§	61,84
+Eva Freyhult	39
+Lucinda Fulton	4
+Robert Fulton	4
+Ana C. L. Garcia	100
+Anastasia Gardiner	72
+David A. Garfield	52
+Barry E. Garvin	6
+William Gelbart	15,78
+Greg Gibson	91
+Don Gilbert	20
+Sante Gnerre	2
+Jennifer Godfrey	4
+Robert Good	30
+Valer Gotea	57
+Brenton Gravely	103
+Anthony J. Greenberg	11
+Sam Griffiths-Jones	87,14
+Samuel Gross	69
+Roderic Guigo	75,50
+Erik A. Gustafson	6
+Wilfried Haerty	54
+Matthew W. Hahn	20,21
+Daniel L. Halligan	45
+Aaron L. Halpern	5
+Gillian M. Halter	57
+Mira V. Han	21
+Andreas Heger	31,32
+LaDeana Hillier	4
+Angie S. Hinrichs	44
+Wratko Hlavina	73
+Ian Holmes	23
+Roger A. Hoskins	13
+Melissa J. Hubisz	35
+Dan Hultmark	38
+Melanie A. Huntley	11
+Venky N. Iyer	77
+David B. Jaffe	2
+Santosh Jagadeeshan	54
+William R. Jeck	36
+Justin Johnson	5
+Corbin D. Jones	36
+William C. Jordan	83
+Yuri Kapustin	73
+Gary H. Karpen	76,77
+Eiko Kataoka	96
+Thomas C. Kaufman	20
+Peter D. Keightley	45
+Manolis Kellis	1,2
+Pouya Kheradpour	1
+Ewen F. Kirkness	5
+Boris Kiryutin	73
+Paul Kitts	73
+Leonardo B. Koerich	24
+Karsten Kristiansen	86
+Dave Kudrna	18
+Rob J. Kulathinal	46
+Sudhir Kumar	60,61
+Roberta Kwok	20
+Eric Lander	2
+Charles H. Langley	29
+Richard Lapoint	53
+Amanda M. Larracuente	11
+Brian P. Lazzaro	12
+So-Jeong Lee	18
+Lisa Levesque	8
+Ruiqiang Li	74,86
+Chiao-Feng Lin	57
+Michael F. Lin	1,2
+Kerstin Lindblad-Toh	2
+Ana Llopart	22
+Manyuan Long	34
+Lloyd Low	30
+Elena Lozovsky	46
+Jian Lu	34
+Meizhong Luo	18
+Carlos A. Machado	17
+Wojciech Makalowski	57
+Therese A. Markow	17
+Mar Marzo	42
+Muneo Matsuda	96
+Luciano Matzkin	17
+Bryant McAllister	22
+Carolyn S. McBride	29
+Brendan McKernan	6
+Kevin McKernan	6
+Maria Mendez-Lago	43
+Patrick Minx	4
+Michael U. Mollenhauer	57
+Kristi Montooth	40
+Stephen M. Mount	3,71
+Xu Mu	57
+Eugene Myers	47
+Barbara Negre	26
+Stuart Newfeld	60
+Rasmus Nielsen	67
+Mohamed A. F. Noor	52
+Patrick O'Grady	53
+Brian Oliver	16
+Lior Pachter	64
+Montserrat Papaceit	49
+Matthew J. Parisi	6
+Michael Parisi	16
+Leopold Parts	1
+Jakob S. Pedersen	44,88
+Graziano Pesole	37
+Adam M. Phillippy	3
+Daniel A. Pollard	79
+Chris P. Ponting	31,32
+Mihai Pop	3
+Damiano Porcelli	89
+Jeffrey R. Powell	66
+Sonja Prohaska	70,61
+Kim D. Pruitt	73
+Marta Puig	42
+Hadi Quesneville	51
+Kritispati Ravi Ram	11
+David Rand	40
+Matthew D. Rasmussen	1
+Laura K. Reed	91
+Robert Reenan	41
+Amy Reily	4
+Karin A. Remington	5
+Tania T. Rieger	102
+Michael G. Ritchie	72
+Charles Robin	30
+Yu-Hui Rogers	5
+Claudia Rohde	101
+Julio Rozas	49
+Marc J. Rubenfield	6
+Alfredo Ruiz	42
+Susan Russo	15,78
+Timothy B. Sackton	11
+Steven L. Salzberg	3
+Alejandro Sanchez-Gracia	9,49
+Victor Sapojnikov	73
+David J. Saranga	6
+Hajime Sato	96
+Stephen W. Schaeffer	57
+Michael C. Schatz	3
+Todd Schlenke	59
+Russell Schwartz	68
+Carmen Segarra	49
+Nadia Singh	11
+Rama S. Singh	54
+Laura Sirot	11
+Marina Sirota	90
+Nicholas B. Sisneros	18
+Chris D. Smith	33,76
+Douglas R. Smith	6
+Temple F. Smith	25
+Alexandre Souvorov	73
+John Spieth	4
+Deborah E. Stage	62
+Alexander Stark	1,2
+Wolfgang Stephan	58
+Robert L. Strausberg	5
+Sebastian Strempel	58
+David Sturgill	16
+Granger Sutton	5
+Granger G. Sutton	5
+Wei Tao	6
+Sarah Teichmann	27
+Yoshiko N. Tobari	99
+Yoshihiko Tomimura	97
+Jason M. Tsolas	6
+Vera L. S. Valente	100
+Eli Venter	5
+J. Craig Venter	5
+Saverio Vicario	66
+Filipe G. Vieira	49
+Albert J. Vilella	7,49
+Alfredo Villasante	43
+Brian Walenz	5
+Jun Wang	74,86
+Marvin Wasserman	95
+Thomas Watts	17
+Derek Wilson	27
+Richard K. Wilson	4
+Rod A. Wing	18
+Mariana F. Wolfner	11
+Alex Wong	11
+Gane Ka-Shu Wong	85,74
+Chung-I Wu	34
+Gabriel Wu	23
+Daisuke Yamamoto	94
+Hsiao-Pei Yang	11
+Shiaw-Pyng Yang	4
+James A. Yorke	10
+Kiyohito Yoshida	98
+Evgeny Zdobnov	48
+Peili Zhang	15,78
+Yu Zhang	16
+Aleksey V. Zimin	10
+Broad Institute Genome Sequencing Platform Zy	2
+Broad Institute Whole Genome Assembly Team Zz	2
